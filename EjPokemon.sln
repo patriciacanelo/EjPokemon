@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjPokemon", "EjPokemon\EjPokemon.csproj", "{EBBB6C7B-3D0F-42DD-8672-0D2C6BEF7CEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{E7A2395D-8187-4679-A430-A6EEA694D8F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{40700D30-B112-4563-889B-621782488E26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBBB6C7B-3D0F-42DD-8672-0D2C6BEF7CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBBB6C7B-3D0F-42DD-8672-0D2C6BEF7CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBBB6C7B-3D0F-42DD-8672-0D2C6BEF7CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBBB6C7B-3D0F-42DD-8672-0D2C6BEF7CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7A2395D-8187-4679-A430-A6EEA694D8F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A2395D-8187-4679-A430-A6EEA694D8F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A2395D-8187-4679-A430-A6EEA694D8F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A2395D-8187-4679-A430-A6EEA694D8F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40700D30-B112-4563-889B-621782488E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40700D30-B112-4563-889B-621782488E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40700D30-B112-4563-889B-621782488E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40700D30-B112-4563-889B-621782488E26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {334741A7-8CE5-4DDB-87D9-F9993F2CB67C}
+	EndGlobalSection
+EndGlobal
